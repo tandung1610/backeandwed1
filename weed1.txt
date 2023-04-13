@@ -1,6 +1,2 @@
 bai weed 1
-<<<<<<< HEAD
 weed 1 khong lien quan
-=======
-day la weed 1 va main
->>>>>>> main
